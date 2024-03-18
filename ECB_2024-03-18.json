@@ -1,0 +1,212 @@
+[
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "USD",
+        "rate": 1.0892,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "JPY",
+        "rate": 162.51,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "BGN",
+        "rate": 1.9558,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "CZK",
+        "rate": 25.2,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "DKK",
+        "rate": 7.4573,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "GBP",
+        "rate": 0.85525,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "HUF",
+        "rate": 394.95,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "PLN",
+        "rate": 4.3113,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "RON",
+        "rate": 4.9716,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "SEK",
+        "rate": 11.3178,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "CHF",
+        "rate": 0.963,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "ISK",
+        "rate": 148.9,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "NOK",
+        "rate": 11.5565,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "TRY",
+        "rate": 35.1825,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "AUD",
+        "rate": 1.6583,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "BRL",
+        "rate": 5.4382,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "CAD",
+        "rate": 1.4745,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "CNY",
+        "rate": 7.8402,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "HKD",
+        "rate": 8.5168,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "IDR",
+        "rate": 17121.08,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "ILS",
+        "rate": 3.9759,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "INR",
+        "rate": 90.285,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "KRW",
+        "rate": 1452.75,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "MXN",
+        "rate": 18.2207,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "MYR",
+        "rate": 5.1394,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "NZD",
+        "rate": 1.7881,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "PHP",
+        "rate": 60.56,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "SGD",
+        "rate": 1.4575,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "THB",
+        "rate": 39.173,
+        "target_currency": "EUR"
+    },
+    {
+        "source": "ECB",
+        "date": "2024-03-18",
+        "currency": "ZAR",
+        "rate": 20.5859,
+        "target_currency": "EUR"
+    }
+]
