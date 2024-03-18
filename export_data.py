@@ -25,6 +25,8 @@ def create_file(transfer_data, day, scheme='ECB'):
         sql_json = sql_json[::-1]
 
     with open(json_file, 'w') as file:
-        json.dump(sql_json, file, indent=4)
+        for row in sql_json:
+            json.dump(row, file)
+            file.write('\n')
 
     return json_file
