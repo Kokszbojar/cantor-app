@@ -31,4 +31,4 @@ def print_data(c_dict):
 
 
 file = create_file(currency_dict, time)
-print(upload_data(file, "river-device-417615", "river-device-417615.sm.daily-rates"))
+upload_data(file, "river-device-417615", "river-device-417615.sm.daily-rates")
