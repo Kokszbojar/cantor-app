@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 
 from retrieve_data import retrieve
-from export_data import create_file
+from export_data import create_file, upload_data
 
 xml_string = retrieve()
 
@@ -28,4 +28,5 @@ def print_data():
             print(currency, ':', rate)
 
 
-create_file(currency_dict, "CREATE")
+file = create_file(currency_dict, "CREATE")
+print(upload_data(file))
